@@ -1,5 +1,5 @@
 # 💫 About Me:
-i am a cse student with knowlwdgw in python AI/ML<br>
+i am a cse student with knowlwdge in python AI/ML<br>
 
 
 ## 🌐 Socials:
